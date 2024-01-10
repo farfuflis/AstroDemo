@@ -1,8 +1,8 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages ewrte
 
 on:
   # Trigger the workflow every time you push to the `main` branch
-  # Using a different branch name? Replace `main` with your branch’s name fasdfasdfasdfsdf
+  # Using a different branch name? Replace `main` with your branch’s name fasdfasdfasdfsdf wertwertwert
   push:
     branches: [main]
   # Allows you to run this wowertwertwertrkflow manually from the Actions tab on GitHub.
