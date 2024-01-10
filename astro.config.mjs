@@ -18,5 +18,5 @@ export default defineConfig({
   },
   site: 'https://farfuflis.github.io',
   integrations: [tailwind(), sitemap(), mdx()],
-  base: '/',
+  base: '/AstroDemo',
 });
